@@ -15,10 +15,10 @@ By the end of this, students should be able to:
 
 ## Here's a basic example of what we'll be building today 😺
 
-![grumpy cat todo](https://git.generalassemb.ly/raw/WDIplus-ATX/jQuery-Todo-List/master/assets/grumpy_cat_todo.jpg)
+![grumpy cat todo](./assets/grumpy_cat_todo.jpg)
 
 
-## Grab your starter code [here](https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/tree/master/Starter-Code), and let's get started!
+## Grab your starter code [here](./Starter-Code), and let's get started!
 
 ## Instructions
 
