@@ -1,1 +1,48 @@
 /* Your CSS will go here */ 
+/* background image */
+body{
+    
+    background: url(desert.gif)  fixed; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+  
+    
+}
+/* header 1 styling */
+h1{
+    color: yellowgreen;
+    display: flex;
+    /* height: 10vh; */
+    padding: 0px;
+    margin: 0px; 
+    /* justify-content: center;
+    align-items: center;  */
+    font-size: 3.1em;
+}
+/* styling for sailor gif */
+#im{
+    background-image: url(sailor.gif);
+    background-repeat: no-repeat;
+     /* display: flex;
+    justify-content: center; */
+   padding: 0px;
+   margin: 0px;
+   height: 600px;
+    width: 600px; 
+
+
+}
+/* styling for  */
+div{
+    color: red ;
+    /* display: flex; */
+    /* height: 75vh;
+    justify-content: center;
+    align-items: center; */
+    font-size: 3.1em;
+     padding: 0px;
+    margin: 0px; 
+} 
